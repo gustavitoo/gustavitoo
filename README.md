@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Gustavo
 
+#### Full-Stack Developer | Game Developer | TypeScript Expert
+
 ## 🚀 About Me
 
 I'm a passionate full-stack developer with a strong focus on game development, web applications, and backend systems. I enjoy creating interactive experiences and efficient systems, whether it's a dynamic UI in React, a robust backend in NestJS, or game mechanics in RAGE:MP and FiveM.
@@ -14,7 +16,7 @@ I'm a passionate full-stack developer with a strong focus on game development, w
 ![TypeORM](https://img.shields.io/badge/TypeORM-FF5864?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📚 What I Work On
+### 📚 What I Work On
 
 - 🎮 Game Development: RAGE:MP, FiveM, multiplayer synchronization, and in-game UI with CEF.
 - 🌐 Web Development: React or NextJS with Zustand for state management, and Tailwind CSS for designs.
